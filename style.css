@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to right, #bdc3c7, #2c3e50 );
+}
+
+img {
+    border-radius: 50%;
+    width: 10%;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+
